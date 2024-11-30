@@ -1,0 +1,41 @@
+[
+    {
+        "name": "IsabellaSkySupport",
+        "trigger": "on_support",
+        "level_nid": null,
+        "condition": "check_pair('Isaabella', 'Sky')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "multi_add_portrait;Isabella;Left;Sky;Right",
+            "speak;Isabella;E-excuse me, Sky?;;;;;;;;1",
+            "speak;Sky;Hm? Oh! Isabella, was it?;;;;;;;;1",
+            "speak;Isabella;Yup! I mean{tgm}{tgm}...{tgm}{tgm} yes, it is. I was just wondering about that tome you're carrying.",
+            "speak;Sky;Oh, this? It's my Advanced Guide to Wind and Other Forms of Green Magic. Papa got it for me for my eighteenth birthday.",
+            "speak;Isabella;Woah{tgm}{tgm}...{tgm}{tgm} how does it work?;;;;;;;;1",
+            "speak;Sky;Do you{tgm}{tgm}...{tgm}{tgm} really want to know?",
+            "speak;Isabella;Yeah! I don't know a thing about magic, so I'd love to!",
+            "speak;Sky;Okay. <iconvo>Sigh</>{tgm}{tgm}...{tgm}{tgm} here goes{tgm}{tgm}...{tgm}{tgm};;;;;;;;1",
+            "expression;Sky;CloseEyes",
+            "speak;Sky;At a basic level, wind magic is one of the more simple forms of magic, right alongside fire magic. By channeling their mana, a mage can manipulate the wind around them to create small blades to attack their foes. This is why wind magic is effective against pegasi and wyverns- by manipulating the wind around their wings, it offsets their balance, allowing their vitals to be struck more easily.{no_wait}",
+            "speak;Isabella;{tgm}{tgm}...{tgm}{tgm};;;;;;;;1;{no_wait}",
+            "speak;Sky;Advanced wind magic, however, is a little more difficult to master. Instead of merely manipulating the wind, the caster must actually turn their mana into new air. If they don't, the increased volume of manipulated wind would create a sort of vacuum, which could disrupt the surrounding environment depending on its size. By manipulating this new air instead, advanced wind spells are able to become larger and more potent. In fact, this mana channeling process is similar to the one used to lower air temperature to cast ice spells.{no_wait}",
+            "speak;Isabella;Um{tgm}{tgm}...{tgm}{tgm};;;;;;;;1;{no_wait}",
+            "speak;Sky;After the spell is casted, this new air disperses and becomes airborne mana, which then seeps into the ground and those around the spell. This transfer of mana is, interestingly enough, how some people are able to gain an affinity for magic after some time, despite having no natural talent. This is also why burying a body or throwing ashes can lead to high magical potency in areas such as graveyards or tombs. In fact, this very tomb seems to have very high levels of natural mana, most likely due to the number of mages who come down here.{no_wait}",
+            "speak;Isabella;Sky-;;;;;;;;1;{no_wait}",
+            "speak;Sky;Legends also speak of a-{c:expression;Sky;OpenEyes}{c:bop_portrait;Sky} Oh! M-my apologies. I tend to{tgm}{tgm}...{tgm}{tgm} ramble about these things.",
+            "speak;Isabella;Hee hee, it's fine! I thought it was interesting, but there are some monsters approaching. If you want to talk some more later, though, we can!",
+            "speak;Sky;I would love that, Isabella.;;;;;;;;1",
+            "",
+            "remove_portrait;Isabella;no_block",
+            "remove_portrait;Sky",
+            "",
+            "end_skip",
+            "wait;200",
+            "sound;Item",
+            "alert;Support increased!"
+        ],
+        "nid": "Global IsabellaSkySupport"
+    }
+]

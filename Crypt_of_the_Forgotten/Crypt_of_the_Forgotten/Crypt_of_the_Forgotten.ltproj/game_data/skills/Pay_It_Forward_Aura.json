@@ -1,0 +1,22 @@
+[
+    {
+        "nid": "Pay_It_Forward_Aura",
+        "name": "Pay it Forward",
+        "desc": "Restores 20% HP to adjacent allies every turn.",
+        "icon_nid": "{ZessDynamite, Rainlash} All Icons",
+        "icon_index": [
+            5,
+            46
+        ],
+        "components": [
+            [
+                "hidden",
+                null
+            ],
+            [
+                "regeneration",
+                0.2
+            ]
+        ]
+    }
+]

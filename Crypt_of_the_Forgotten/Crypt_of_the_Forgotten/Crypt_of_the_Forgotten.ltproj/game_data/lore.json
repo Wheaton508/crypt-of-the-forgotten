@@ -1,0 +1,107 @@
+[
+    {
+        "nid": "GameFlow",
+        "name": "Game Flow",
+        "title": "Game Flow",
+        "category": "Guide",
+        "text": "Gameplay takes place in three phases:{br}- <blue>Player Phase</>: Blue units, controlled by the player, are able to move.\n- <red>Enemy Phase</>: Red units, controlled by the AI, are able to move. Enemy units are able to attack both blue and green units.\n- <green>Other Phase</>: Green units, controlled by the AI, are able to move. Green units will attack red units, but not blue units."
+    },
+    {
+        "nid": "Movement",
+        "name": "Movement",
+        "title": "Movement",
+        "category": "Guide",
+        "text": "Units are able to move once per turn. How far they are able to move is based off of their <yellow>Mov</>, which is the maximum number of spaces they can move.\nRough terrain, such as forests and mountains, may slow down certain units' movement."
+    },
+    {
+        "nid": "Combat",
+        "name": "Combat",
+        "title": "Combat",
+        "category": "Guide",
+        "text": "Combat takes place in turns: The initiating unit will attack, then the defender. If either has four or more Attack Speed than the opponent, they will double.\nIn Classic Mode, any units lost in combat are lost forever. In Casual Mode, they will return in the next chapter.\nThere are various stats used during combat, which can be affected by skills.{br}- Combat stats are <blue>blue</>{br}- Unit stats are <yellow>yellow</>{br}- Weapon stats are <purple>purple</>\n- <blue>Damage</>: <yellow>Atk</> - <yellow>Def</> OR <yellow>Mag</> - <yellow>Res</>{br}- <blue>Attack Speed</>: <yellow>Spd</> - (<purple>Weight</> - <yellow>Con</>, if <purple>Weight</> > <yellow>Con</>)\n- <blue>Hit</>: <purple>Hit</> + (<yellow>Skl</> * 2 + <yellow>Lck</> / 2){br}- <blue>Avoid</>: <yellow>Spd</> * 2 + <yellow>Lck</>{br}- <blue>Crit</>: <purple>Crit</> + (<yellow>Skl</> / 2){br}- <blue>Crit Avoid</>: <yellow>Lck</>"
+    },
+    {
+        "nid": "WeaponTriangle",
+        "name": "Wpn. Triangle",
+        "title": "The Weapon Triangle",
+        "category": "Guide",
+        "text": "Each type of weapon fares better against certain other types. Swords beat axes, axes beat lances, and lances beat swords. This is called the \"Weapon Triangle.\"\nThe types of magic behave similarly. Anima beats light, light beats dark, and dark beats anima. This is the \"Trinity of Magic.\"\nAttacking at an advantage can give you incerased combat stats. Bows do not interact with either triangle and are always neutral."
+    },
+    {
+        "nid": "UnitGrowth",
+        "name": "Unit Growth",
+        "title": "Unit Growth",
+        "category": "Guide",
+        "text": "Upon defeating an enemy, player units will gain experience points. After obtaining 100 EXP, they will level up and gain stats, capping out at Lvl. 20.\nAfter passing Lvl. 10, most units can promote using a Master Seal. Promotion grants higher stats, and can even grant new abilities. It also resets their level back to{br}Lvl. 1."
+    },
+    {
+        "nid": "DangerArea",
+        "name": "Danger Area",
+        "title": "Danger Area",
+        "category": "Guide",
+        "text": "Pressing <blue>R</> during battle will show the movement and attack range of all enemies. Any units in this range are at risk of getting attacked. Alterantively, pressing <blue>A</> over an enemy will display just that enemy's range."
+    },
+    {
+        "nid": "Items",
+        "name": "Items",
+        "title": "Items",
+        "category": "Guide",
+        "text": "Units are able to hold up to five things in their inventory: four items (weapons, staves, and consumables), and one accessory.\nThe <green>Item</> command allows units to access their inventory to use and equip weapons.\nUnits can also <green>Trade</> with adjacent allies to swap items between their inventories.\nWhen next to Yu or in the base, units can access the <green>Convoy</> to store and retrieve extra items."
+    },
+    {
+        "nid": "Rescue",
+        "name": "Rescue",
+        "title": "Rescue",
+        "category": "Guide",
+        "text": "When a unit is next to an ally that has less <yellow>Con</> than they do <yellow>Aid</>, they can <green>Rescue</> that unit.\nA rescued unit can be <green>Dropped</> on an eligible open space, or <green>Given</> to or <green>Taken</> by another larger unit.\nWhen rescued, units cannot act, but can still be traded with. Rescuing a unit will give a penalty to stats until they are dropped."
+    },
+    {
+        "nid": "ClearConditions",
+        "name": "Clear Cons.",
+        "title": "Clear Conditions",
+        "category": "Guide",
+        "text": "Each chapter has a different condition to win the game. The most common are as follows:{br}- <blue>Rout</>: Defeat all enemies{br}- <blue>Sieze</>: Have Yu capture a point on the map\n- <blue>Defeat Boss</>: Defeat the boss unit of the map{br}- <blue>Defend</>: Survive for a given number of turns"
+    },
+    {
+        "nid": "Talk",
+        "name": "Talk",
+        "title": "Talk",
+        "category": "Guide",
+        "text": "During gameplay, certain characters may be able to have conversations with each other, noted by a \"Talk\" icon above them. Move the corresponding unit adjacent to them, and <green>Talk</>."
+    },
+    {
+        "nid": "Visit",
+        "name": "Visit",
+        "title": "Visiting Houses",
+        "category": "Guide",
+        "text": "Some maps have houses or villages that units may <green>Visit</> in order to get special rewards. Beware, however. Certain enemies may try to destroy villages before you can get to them."
+    },
+    {
+        "nid": "Effective",
+        "name": "Eff. Weapons",
+        "title": "Effective Weaponry",
+        "category": "Guide",
+        "text": "Some weapons may deal extra damage to a certain type of unit, such as cavalry or fliers. These weapons have their <purple>Might</> tripled during damage calculations."
+    },
+    {
+        "nid": "Unlock",
+        "name": "Doors/Chests",
+        "title": "Doors and Chests",
+        "category": "Guide",
+        "text": "Doors and chests are held shut by locks, and require a corresponding <blue>Key</> to unlock. Alternatively, thieves can use <blue>Lockpicks</> to open either."
+    },
+    {
+        "nid": "Supports",
+        "name": "Supports",
+        "title": "Support Conversations",
+        "category": "Guide",
+        "text": "When two units are deployed on the same chapter together, their bond will strengthen.  After a certain number of chapters, they will be able to increase their <green>Support</> rank in the base.\nUnits gain bonuses when fighting near their support partners. These bonuses are based on their <yellow>Affinities</>. Furthermore, <yellow>A</>-Supports grant bonuses to one or both units involved.\nSupports progress through three ranks (<yellow>C</>, <yellow>B</>, and <yellow>A</>), with each unit able to have five levels of support at a time. When a unit dies in Classic Mode, their support partners will lose those support ranks."
+    },
+    {
+        "nid": "Fog",
+        "name": "Fog of War",
+        "title": "Fog of War",
+        "category": "Guide",
+        "text": "Some maps will be covered by a dense fog or darkness, known as <blue>Fog of War</>. When this is the case, enemies outside of a unit's vision will be obscured.\nUsing a <blue>Torch</> or <blue>Torch Staff</> will temporarily illuminate the map, increasing your vision. Furthermore, Thieves have increase range of sight."
+    }
+]

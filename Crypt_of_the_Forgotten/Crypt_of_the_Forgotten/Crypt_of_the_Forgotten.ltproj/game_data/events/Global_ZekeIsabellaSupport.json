@@ -1,0 +1,38 @@
+[
+    {
+        "name": "ZekeIsabellaSupport",
+        "trigger": "on_support",
+        "level_nid": null,
+        "condition": "check_pair('Zeke', 'Isabella')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "multi_add_portrait;Zeke;Left;Isabella;Right",
+            "speak;Zeke;Hey, Isa. You holding up well?;;;;;;;;1",
+            "speak;Isabella;Zeke! Right as rain, as always!",
+            "speak;Zeke;That's good to hear. I'm still surprised Roland let you come along with us.",
+            "speak;Isabella;Me too! He's usually such a butt about letting me come on missions!",
+            "speak;Zeke;Well, I normally am too...;;;thought_bubble;;;;;1",
+            "speak;Zeke;I mean, I get it, wanting to protect your little sister. You're strong and all, but I don't think he'd be able to sleep at night if something happened to you.",
+            "speak;Isabella;Yeah, I guess so{tgm}...{tgm};;;;;;;;1",
+            "speak;Zeke;Still, you always have the two of us to lean on if things get rough. Just remember that.",
+            "speak;Isabella;{tgm}...{tgm};;;;;;;;1",
+            "speak;Zeke;What, did I say something weird?;;;;;;;;1",
+            "speak;Isabella;Do you{tgm}...{tgm} ever miss home, Zeke?",
+            "speak;Zeke;Hm? Not really. Can't say I never think about going back, but{tgm}...{tgm} I'm happy with this life. Why? You feeling homesick yourself?",
+            "speak;Isabella;N-no reason. I was just wondering.",
+            "speak;Zeke;Gotcha{tgm}...{tgm} Anyway, let's keep searching around.",
+            "speak;Isabella;Right{tgm}...{tgm};;;;;;;;1",
+            "",
+            "remove_portrait;Zeke;no_block",
+            "remove_portrait;Isabella",
+            "",
+            "end_skip",
+            "wait;200",
+            "sound;Item",
+            "alert;Support increased!"
+        ],
+        "nid": "Global ZekeIsabellaSupport"
+    }
+]

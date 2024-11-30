@@ -1,0 +1,42 @@
+[
+    {
+        "name": "RolandIsabellaSupport",
+        "trigger": "on_support",
+        "level_nid": null,
+        "condition": "check_pair('Roland', 'Isabella')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "multi_add_portrait;Isabella;Left;Roland;Right",
+            "speak;Isabella;Big brother, big brother! Did you see that?",
+            "speak;Roland;Eh? What's up, sis?;;;;;;;;1",
+            "speak;Isabella;Did you see me skewer that Revenant?",
+            "speak;Roland;Oh, did 'ya now? Nice going!",
+            "speak;Isabella;Hee hee, thanks! You better watch out, though. I might pass you one of these days.",
+            "speak;Roland;Heh, maybe. Still, you gotta make sure you're watching your back. You're the last family I have, after all.",
+            "speak;Isabella;Last{tgm}...{tgm} family? But{tgm}...{tgm} we still have Ma and Pa waiting for us at home, don't we?",
+            "speak;Roland;Yeah, but{tgm}...{tgm} at this point? I bet those two couldn't care less that I left.",
+            "speak;Isabella;T-that's not true! I bet they're worried sick about us!",
+            "speak;Roland;You? Probably. But me? I was a thorn in their side since I could walk. Always getting into trouble, messing around{tgm}...{tgm}",
+            "speak;Isabella;So do you{tgm}...{tgm} never want to go back home?",
+            "speak;Roland;I wouldn't say never. Wouldn't be surprised if Zeke ends up back home, too. But{tgm}...{tgm} I like the mercenary life. It suits me.",
+            "speak;Isabella;{tgm}...{tgm};;;;;;;;1",
+            "speak;Roland;Damn it, Isa. Don't give me that look. Listen, we'll go back. Together. I promise. I just{tgm}...{tgm} want to keep living this life for a bit, y'know?",
+            "speak;Isabella;Yeah{tgm}...{tgm};;;;;;;;1",
+            "speak;Roland;Plus, I got you and Zeke to keep my company. How could I not enjoy it?",
+            "speak;Isabella;Y-yeah. I guess so.;;;;;;;;1",
+            "speak;Roland;So cheer up, kid. C'mon, I thought I saw a Wight crawling around. What do you say the two of us go show him what we can do?",
+            "speak;Isabella;Okay!;;;;;;;;1",
+            "",
+            "remove_portrait;Isabella;no_block",
+            "remove_portrait;Roland",
+            "",
+            "end_skip",
+            "wait;200",
+            "sound;Item",
+            "alert;Support increased!"
+        ],
+        "nid": "Global RolandIsabellaSupport"
+    }
+]

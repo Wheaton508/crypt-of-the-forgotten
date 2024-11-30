@@ -1,0 +1,80 @@
+Developed by Wheaton_508
+
+This level was made using the Lex Talionis engine, developed by rainlash with additional help from ag, KD, Sigmaraven, TheeBill, Lord Tweed, ZessDynamite, Nemid, Kyogokudo, beccarte, Meinerieve, Greentwip, Klokinator, Sealvester, Joytis, and aorlnn
+
+Lex Talionis is a non-profit engine, released for free, and developed using Python, Pygame, and PyQt5. Some default assets are copyrighted or trademarked by their respective owners.
+
+
+Most assets are either taken from Fire Emblem: The Sacred Stones (Intelligent Systems) or from contributors from Klokinator's Fire Emblem Resource Repository.
+
+~~~~~ ART ~~~~~
+
+--- Animations ---
+
+* Cleric (Long Haired) - Yangfly Master
+* Halberdier - TheBlindArcher, Black Mage
+* Fighter (Tellius Syle) - Leo_Link, Pushwall
+* Hero (Coat + Brown Shield) - Swain, Pikmin1211, ltranc
+* Mage (Lillina) - Shin19, SHYUTERz
+* Living Armor - Sphealnuke
+* Sage (Jemmie) - St jack, tatutachang
+* Wight (Repal) - Teraspark, Wan
+* Sniper (Wil) - Greentea
+* Soldier (FE10 Style) - Flasuban
+* Holy Priestess (Repal) - Melia, Hypergammaspaces, Knabepicer, Feier, RiriK
+* Summoner - Spud, TBA, Eldritch Abomination
+* Warrior (Tellius Rework) - Red Bean, Leo_Link, Nuramon
+
+Vanilla animations by Intelligent Systems
+
+GBA Spell Animations ported to Lex Talionis by BBHood
+
+
+--- Portraits ---
+
+* Cord - GFE1R, CranJam
+* DiMaggio - WAve
+* Eirika (Child) - MegaCowsamMan
+* Nino (Adult, FE8, Colours Fance, Pale Skin) - Spoon_Rhythm, Magelord Max
+* Villager Girl Armor Bucktoothed - Relic
+* Wade (Blinking) - Lenh, Obsidian Daddy
+* Wolt (Blinking) - Lenh, Obsidian Daddy
+
+(Parts of the above portraits were used to splice together the portraits in-game. So while none of these appear in the game themselves, parts of them do.)
+
+
+--- Sprites ---
+
+* Cleric (Caped Staff) - topazlight
+* Fighter (FEE10-Style) - L95
+* Halberdier (Amelia) - blood, Dei, dondon151
+* Mage (Long-Haired) - flasuban
+* Necromancer - Rasdel
+* Sage (Long-Haired) - Unknown
+* Saint - Melia
+* Warrior (Tellius) - Rasdel
+
+
+--- Misc. ---
+
+* Backgrounds ported from Fire Emblem: Path of Radiance by unknown
+* Last Stronghold tileset by Flasuban, N426, and ZoramineFae. Edits by Wheaton_508
+
+
+~~~~~ MUSIC ~~~~~
+
+* Boss Battle (Pokémon Conquest) - Arranged by HunterAurzo
+* Daughter of the Dark God (Octopath Traveler) - Arranged by HunterAurzo
+* Heavy Lobster (Kirby Super Star Ultra) - Arranged by HunterAurzo
+* Into the Darkness (Fire Emblem: Shadow Dragon) - Arranged by HunterAurzo
+* Moongrains (Plants vs. Zombies) - Arranged by HunterAurzo
+* Peaceful (Unicorn Overlord) - Arranged by HunterAurzo
+* The Evil King Bowser (Super Mario All-Stars) - Arranged by HunterAurzo
+
+The following tracks were originally composed by the composers at Intelligent Systems, but were remastered by gazpacho146
+* Advance (Fire Emblem: The Sacred Stones)
+* Despondent (Fire Emblem: The Sacred Stones)
+* Fin (Fire Emblem: The Sacred Stones)
+* Game Over (Fire Emblem: The Sacred Stones)
+* Main Theme (Fire Emblem)
+* To a Higher Place (Fire Emblem: The Sacred Stones)

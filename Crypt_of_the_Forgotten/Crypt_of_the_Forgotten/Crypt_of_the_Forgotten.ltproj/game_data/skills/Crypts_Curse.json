@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "Crypts_Curse",
+        "name": "Crypt's Curse",
+        "desc": "Unit cannot be crit or doubled.",
+        "icon_nid": "{ZessDynamite, Rainlash} All Icons",
+        "icon_index": [
+            2,
+            41
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ],
+            [
+                "hide_aura",
+                null
+            ],
+            [
+                "aura",
+                "Crypts_Curse_Aura"
+            ],
+            [
+                "aura_range",
+                2
+            ],
+            [
+                "aura_target",
+                "enemy"
+            ]
+        ]
+    }
+]

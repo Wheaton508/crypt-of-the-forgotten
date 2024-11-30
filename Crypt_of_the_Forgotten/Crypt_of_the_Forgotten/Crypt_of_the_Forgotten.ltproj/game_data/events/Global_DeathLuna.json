@@ -1,0 +1,29 @@
+[
+    {
+        "name": "DeathLuna",
+        "trigger": "combat_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Luna'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "hide_combat_ui",
+            "",
+            "music;Despondent",
+            "add_portrait;Luna;RightCorner",
+            "",
+            "if;game.check_alive('Lex') == True",
+            "    speak;Luna;At least this beats going out{tgm}...{tgm} in the cold{tgm}...{tgm} Lex{tgm}...{tgm} I'm sorry{tgm}...{tgm}",
+            "else;",
+            "    speak;Luna;Sorry Lex, but{tgm}...{tgm} I'm coming to see you guys{tgm}...{tgm}",
+            "end",
+            "",
+            "remove_portrait;Luna",
+            "inc_level_var;deathCount",
+            "",
+            "show_combat_ui"
+        ],
+        "nid": "Global DeathLuna"
+    }
+]

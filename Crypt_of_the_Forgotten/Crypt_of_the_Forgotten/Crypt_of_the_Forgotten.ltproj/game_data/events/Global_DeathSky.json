@@ -1,0 +1,22 @@
+[
+    {
+        "name": "DeathSky",
+        "trigger": "combat_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Sky'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "hide_combat_ui",
+            "",
+            "music;Despondent",
+            "add_portrait;Sky;RightCorner",
+            "speak;Sky;Papa, I'm{tgm}...{tgm} sorry{tgm}...{tgm} I won't{tgm}...{tgm} {c:expression;Sky;CloseEyes}{br}make it{tgm}...{tgm} home{tgm}...{tgm}",
+            "remove_portrait;Sky",
+            "",
+            "show_combat_ui"
+        ],
+        "nid": "Global DeathSky"
+    }
+]

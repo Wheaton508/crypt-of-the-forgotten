@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Turn16Rein",
+        "trigger": "phase_change",
+        "level_nid": "1",
+        "condition": "game.turncount == 16 and v(\"canEscape\") == False",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "make_generic;Rein3;Sword_Bonewalker;8;enemy;Pursue;Monster;;Iron_Sword",
+            "add_unit;Rein3;0,13;immediate;closest;west",
+            "",
+            "make_generic;Rein4;Revenant;9;enemy;Pursue;Monster;;Rotten_Claw",
+            "add_unit;Rein4;0,15;immediate;closest;west"
+        ],
+        "nid": "1 Turn16Rein"
+    }
+]

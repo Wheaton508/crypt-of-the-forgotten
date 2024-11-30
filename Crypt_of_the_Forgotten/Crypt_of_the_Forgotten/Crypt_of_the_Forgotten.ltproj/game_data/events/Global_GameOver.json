@@ -1,0 +1,32 @@
+[
+    {
+        "name": "GameOver",
+        "trigger": "combat_end",
+        "level_nid": null,
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "if;game.check_dead('Zeke') == True or game.check_dead('Sky') == True",
+            "    music_clear;500",
+            "    wait;100",
+            "    transition;close;1000",
+            "    wait;500",
+            "    lose_game",
+            "end",
+            "",
+            "if;not any(unit.team == 'player' for unit in game.units if unit.position) and game.check_alive('Zeke') == True and game.check_alive('Sky') == True",
+            "    music_clear;200",
+            "    wait;200",
+            "    victory_screen",
+            "    win_game",
+            "    ",
+            "elif;not any(unit.team == 'player' for unit in game.units if unit.position)",
+            "    wait;100",
+            "    lose_game",
+            "end"
+        ],
+        "nid": "Global GameOver"
+    }
+]

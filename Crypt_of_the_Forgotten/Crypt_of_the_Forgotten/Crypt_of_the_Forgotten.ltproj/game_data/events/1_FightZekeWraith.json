@@ -1,0 +1,34 @@
+[
+    {
+        "name": "FightZekeWraith",
+        "trigger": "combat_start",
+        "level_nid": "1",
+        "condition": "check_pair('Zeke','Wraith')",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "hide_combat_ui",
+            "",
+            "music;Daughter of a Dark God",
+            "add_portrait;Wraith;Right",
+            "speak;Wraith;Yooouuu{tgm}...{tgm} why did you come hereee{tgm}...{tgm};;;noir;;;;;1",
+            "remove_portrait;Wraith",
+            "",
+            "add_portrait;Zeke;Left",
+            "speak;Zeke;I'm here on a mission. Now move, before I send my sword through you.",
+            "remove_portrait;Zeke",
+            "",
+            "add_portrait;Wraith;Right",
+            "speak;Wraith;None shall leave this placeee{tgm}...{tgm};;;noir;;;;;1",
+            "remove_portrait;Wraith",
+            "",
+            "add_portrait;Zeke;Left",
+            "speak;Zeke;Fine. I guess we're doing this the hard way, then. Time to earn my keep.",
+            "remove_portrait;Zeke",
+            "",
+            "show_combat_ui"
+        ],
+        "nid": "1 FightZekeWraith"
+    }
+]

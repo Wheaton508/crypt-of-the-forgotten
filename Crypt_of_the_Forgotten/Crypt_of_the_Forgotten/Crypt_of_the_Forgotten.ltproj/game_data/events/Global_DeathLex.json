@@ -1,0 +1,29 @@
+[
+    {
+        "name": "DeathLex",
+        "trigger": "combat_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Lex'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "hide_combat_ui",
+            "",
+            "music;Despondent",
+            "add_portrait;Lex;RightCorner",
+            "",
+            "if;game.check_alive('Luna') == True",
+            "    speak;Lex;No{tgm}...{tgm} I can't{tgm}...{tgm} leave her alone{tgm}...{tgm} {c:expression;Lex;CloseEyes}{br}Everyone, I'm{tgm}...{tgm} sorry{tgm}...{tgm}",
+            "else;",
+            "    speak;Lex;Mother{tgm}...{tgm} Father{tgm}...{tgm} Luna{tgm}...{tgm} we can all be{tgm}...{tgm} {c:expression;Lex;CloseEyes}together again{tgm}...{tgm}",
+            "end",
+            "",
+            "remove_portrait;Lex",
+            "inc_level_var;deathCount",
+            "",
+            "show_combat_ui"
+        ],
+        "nid": "Global DeathLex"
+    }
+]

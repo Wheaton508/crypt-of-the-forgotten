@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Turn35Rein",
+        "trigger": "phase_change",
+        "level_nid": "1",
+        "condition": "game.turncount == 35 and v(\"canEscape\") == False",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "# Pre-promotes from either the middle or sides. One on each.",
+            "# Stairs on the bottom of either side",
+            "add_unit;200;6,30;fade;closest;fade",
+            "add_unit;201;18,28;fade;closest;fade"
+        ],
+        "nid": "1 Turn35Rein"
+    }
+]

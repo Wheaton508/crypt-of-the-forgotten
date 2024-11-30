@@ -1,0 +1,36 @@
+[
+    {
+        "name": "SkyLunaSupport",
+        "trigger": "on_support",
+        "level_nid": null,
+        "condition": "check_pair('Sky', 'Luna')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "multi_add_portrait;Luna;Left;Sky;Right",
+            "",
+            "speak;Luna;You, princess.;;;;;;;;1",
+            "speak;Sky;Hm? Oh, hello Luna.;;;;;;;;1",
+            "speak;Luna;I just wanted to remind you who's keeping you alive down here. If it weren't for me, you'd be Revenant food by now.",
+            "speak;Sky;Yes, I'm aware of your contributions. And I appreciate them very much.",
+            "speak;Luna;I'll see if that's true once I have gold in my palm. You nobles are all the same, after all.",
+            "speak;Sky;Pardon?;;;;;;;;1",
+            "speak;Luna;You're all the same. You act like you care, and then pinch pennies when it's time to help us commoners. I know the type.",
+            "speak;Sky;I-I{tgm}...{tgm} don't understand.;;;;;;;;1",
+            "speak;Luna;Of course you wouldn't. You never do.",
+            "speak;Sky;{tgm}...{tgm};;;;;;;;1",
+            "speak;Luna;I'll keep healing you since you're the one paying us, but don't think for a second that means I like you.",
+            "remove_portrait;Luna",
+            "speak;Sky;What{tgm}...{tgm} was all that about?",
+            "",
+            "remove_portrait;Sky",
+            "",
+            "end_skip",
+            "wait;200",
+            "sound;Item",
+            "alert;Support increased!"
+        ],
+        "nid": "Global SkyLunaSupport"
+    }
+]

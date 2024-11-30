@@ -1,0 +1,121 @@
+[
+    {
+        "nid": "Sky",
+        "name": "Sky",
+        "desc": "A curious mage and heir to a noble house who seeks to uncover the crypt's secrets.",
+        "variant": "",
+        "level": 9,
+        "klass": "Mage",
+        "tags": [
+            "Lord"
+        ],
+        "bases": {
+            "HP": 28,
+            "STR": 2,
+            "MAG": 10,
+            "SKL": 12,
+            "SPD": 14,
+            "LCK": 10,
+            "DEF": 5,
+            "RES": 11,
+            "CON": 6,
+            "MOV": 5
+        },
+        "growths": {
+            "HP": 40,
+            "STR": 5,
+            "MAG": 45,
+            "SKL": 45,
+            "SPD": 60,
+            "LCK": 40,
+            "DEF": 10,
+            "RES": 50,
+            "CON": 0,
+            "MOV": 0
+        },
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "SPD": 0,
+            "STR": 0,
+            "CON": 0,
+            "SKL": 0,
+            "LCK": 0,
+            "MOV": 0,
+            "RES": 0,
+            "DEF": 0,
+            "HP": 0
+        },
+        "starting_items": [
+            [
+                "Elwind",
+                false
+            ],
+            [
+                "Fire",
+                false
+            ],
+            [
+                "Door_Key",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "Curiosity"
+            ]
+        ],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                251
+            ],
+            "Lance": [
+                false,
+                0,
+                251
+            ],
+            "Axe": [
+                true,
+                0,
+                251
+            ],
+            "Bow": [
+                false,
+                0,
+                251
+            ],
+            "Staff": [
+                false,
+                0,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                false,
+                121,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Sky",
+        "affinity": "Wind",
+        "fields": []
+    }
+]

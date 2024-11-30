@@ -1,0 +1,58 @@
+[
+    {
+        "nid": "Gilded_Claw",
+        "name": "Gilded Claw",
+        "desc": "A golden claw covered in rotting flesh. Deadly and accurate.",
+        "icon_nid": "Weapons",
+        "icon_index": [
+            5,
+            4
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "damage",
+                16
+            ],
+            [
+                "hit",
+                90
+            ],
+            [
+                "weight",
+                14
+            ],
+            [
+                "locked",
+                null
+            ],
+            [
+                "wexp",
+                0
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                1
+            ]
+        ]
+    }
+]

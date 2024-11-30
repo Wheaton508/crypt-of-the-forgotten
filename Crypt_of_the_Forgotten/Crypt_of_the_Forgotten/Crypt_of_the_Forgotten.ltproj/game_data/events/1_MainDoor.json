@@ -1,0 +1,36 @@
+[
+    {
+        "name": "MainDoor",
+        "trigger": "Door",
+        "level_nid": "1",
+        "condition": "region.nid == 'DoorMain' and v(\"canEscape\") == False",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;{unit};Left",
+            "if;unit.nid == \"Zeke\"",
+            "    speak;Zeke;Hm? That's weird, the key won't fit. And it looks like the handles won't budge.|Guess we need to keep searching for <red>a different way in.</>",
+            "elif;unit.nid == \"Roland\"",
+            "    speak;Roland;Gah, this stupid key won't work. Well, in that case{tgm}...{tgm}|I guess I just gotta bust through it myself! Hyaaahhh!!!",
+            "    bop_portrait;Roland",
+            "    move_portrait;Roland;FarRight",
+            "    bop_portrait;Roland",
+            "    move_portrait;Roland;Left",
+            "    speak;Roland;Nope. Nothing. Guess we're gonna have to find <red>another way into this place.</>",
+            "elif;unit.nid == \"Isabella\"",
+            "    speak;Isabella;What? The key won't work! Um{tgm}...{tgm} fine, then! I'm just gonna have to find <red>another way in!</>",
+            "elif;unit.nid == \"Lex\"",
+            "    speak;Lex;A fake door, eh? Very well, then. Looks like we'll need <red>another way in.</>",
+            "elif;unit.nid == \"Sky\"",
+            "    speak;Sky;A door that won't budge{tgm}...{tgm} a good defense mechanism. Very well.|Looks like we'll have <red>to break in another way.</>",
+            "else;",
+            "    speak;Luna;Damn key won't work. Ugh. Well, mission's over, everyone.|Unless you freaks want to find <red>another way in,</> I guess.",
+            "    end",
+            "",
+            "remove_portrait;{unit}",
+            "has_finished;{unit}"
+        ],
+        "nid": "1 MainDoor"
+    }
+]

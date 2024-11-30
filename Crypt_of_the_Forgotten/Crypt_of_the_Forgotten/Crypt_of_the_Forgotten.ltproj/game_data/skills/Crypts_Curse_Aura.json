@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Crypts_Curse_Aura",
+        "name": "Crypt's Curse",
+        "desc": "Unit cannot be crit or doubled.",
+        "icon_nid": "{ZessDynamite, Rainlash} All Icons",
+        "icon_index": [
+            2,
+            41
+        ],
+        "components": [
+            [
+                "hidden",
+                null
+            ],
+            [
+                "combat_condition",
+                "target.name == \"Wraith\""
+            ],
+            [
+                "cannot_double",
+                null
+            ],
+            [
+                "crit",
+                -1000
+            ]
+        ]
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "nid": "Divine",
+        "name": "Divine",
+        "desc": "Advanced holy magic. Effective against monsters.",
+        "icon_nid": "Weapons",
+        "icon_index": [
+            2,
+            4
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "value",
+                2500
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "damage",
+                8
+            ],
+            [
+                "hit",
+                85
+            ],
+            [
+                "crit",
+                10
+            ],
+            [
+                "weight",
+                10
+            ],
+            [
+                "uses",
+                25
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "wexp",
+                2
+            ],
+            [
+                "weapon_type",
+                "Light"
+            ],
+            [
+                "weapon_rank",
+                "B"
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    255,
+                    255,
+                    0
+                ]
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Monster"
+                    ],
+                    "effective_multiplier": 3,
+                    "effective_bonus_damage": 0,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
+            ]
+        ]
+    }
+]

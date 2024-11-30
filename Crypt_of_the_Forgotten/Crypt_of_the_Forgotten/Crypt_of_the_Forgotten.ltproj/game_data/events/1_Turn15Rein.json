@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Turn15Rein",
+        "trigger": "phase_change",
+        "level_nid": "1",
+        "condition": "game.turncount == 15 and v(\"canEscape\") == False",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "make_generic;Rein5;Sword_Bonewalker;8;enemy;Pursue;Monster;;Iron_Lance",
+            "add_unit;Rein5;26,9;immediate;closest;east",
+            "",
+            "make_generic;Rein6;Revenant;9;enemy;Pursue;Monster;;Rotten_Claw",
+            "add_unit;Rein6;26,10;immediate;closest;east"
+        ],
+        "nid": "1 Turn15Rein"
+    }
+]

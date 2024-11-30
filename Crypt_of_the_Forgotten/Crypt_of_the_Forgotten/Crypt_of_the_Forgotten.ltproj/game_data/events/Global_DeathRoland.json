@@ -1,0 +1,29 @@
+[
+    {
+        "name": "DeathRoland",
+        "trigger": "combat_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Roland'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "hide_combat_ui",
+            "",
+            "music;Despondent",
+            "add_portrait;Roland;RightCorner",
+            "",
+            "if;game.check_alive('Isabella') == True",
+            "    speak;Roland;Ack{tgm}...{tgm} I bit off more than I could chew{tgm}...{tgm} {c:expression;Roland;CloseEyes}sorry{tgm}...{tgm} sis{tgm}...{tgm}",
+            "else;",
+            "    speak;Roland;Oof{tgm}...{tgm} not like this{tgm}...{tgm} Isa, I'm{tgm}...{tgm} {c:expression;Roland;CloseEyes}{br}coming home{tgm}...{tgm}",
+            "end",
+            "",
+            "remove_portrait;Roland",
+            "inc_level_var;deathCount",
+            "",
+            "show_combat_ui"
+        ],
+        "nid": "Global DeathRoland"
+    }
+]

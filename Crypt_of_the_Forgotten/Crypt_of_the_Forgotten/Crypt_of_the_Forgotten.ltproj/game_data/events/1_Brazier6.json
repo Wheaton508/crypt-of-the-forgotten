@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Brazier6",
+        "trigger": "Light",
+        "level_nid": "1",
+        "condition": "region.nid == 'Brazier6' or region.nid == 'Brazier6_1'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "if;v(\"brazierLit\") == False",
+            "    add_portrait;{unit};Left",
+            "    speak;{unit};A brazier? It looks like there's still kindling here. Let me just{tgm}...{tgm}",
+            "    remove_portrait;{unit}",
+            "    show_layer;brazier6;fade",
+            "    level_var;brazierSix;True",
+            "    sound;FireBall",
+            "    add_unit;brazier6;25,23;immediate;push;fade",
+            "    wait;1000",
+            "    add_portrait;{unit};Left",
+            "    speak;{unit};Might as well use this to relight my lantern, as well.",
+            "    remove_portrait;{unit}",
+            "    give_item;{unit};Torch",
+            "    level_var;brazierLit;True",
+            "",
+            "else;",
+            "    show_layer;brazier6;fade",
+            "    level_var;brazierSix;True",
+            "    sound;FireBall",
+            "    wait;1000",
+            "    add_unit;brazier6;25,23;immediate;push;fade",
+            "    give_item;{unit};Torch",
+            "end",
+            "",
+            "has_finished;{unit}"
+        ],
+        "nid": "1 Brazier6"
+    }
+]

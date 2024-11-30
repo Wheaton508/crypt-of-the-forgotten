@@ -1,0 +1,29 @@
+[
+    {
+        "name": "DeathIsabella",
+        "trigger": "combat_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Isabella'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "hide_combat_ui",
+            "",
+            "music;Despondent",
+            "add_portrait;Isabella;RightCorner",
+            "",
+            "if;game.check_alive('Roland') == True",
+            "    speak;Isabella;Brother{tgm}...{tgm} I guess I wasn't{tgm}...{tgm} {c:expression;Isabella;CloseEyes}{br}strong enough{tgm}...{tgm}",
+            "else;",
+            "    speak;Isabella;At least I'll get to{tgm}...{tgm} {c:expression;Isabella;CloseEyes}see {br}Roland{tgm}...{tgm} again{tgm}...{tgm}",
+            "end",
+            "",
+            "remove_portrait;Isabella",
+            "inc_level_var;deathCount",
+            "",
+            "show_combat_ui"
+        ],
+        "nid": "Global DeathIsabella"
+    }
+]

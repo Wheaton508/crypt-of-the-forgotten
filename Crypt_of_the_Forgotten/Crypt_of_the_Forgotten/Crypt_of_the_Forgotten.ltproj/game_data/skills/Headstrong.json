@@ -1,0 +1,26 @@
+[
+    {
+        "nid": "Headstrong",
+        "name": "Headstrong",
+        "desc": "Grants +3 damage when initiating combat.",
+        "icon_nid": "{ZessDynamite, Rainlash} All Icons",
+        "icon_index": [
+            6,
+            42
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ],
+            [
+                "combat_condition",
+                "mode == 'attack'"
+            ],
+            [
+                "damage",
+                3
+            ]
+        ]
+    }
+]

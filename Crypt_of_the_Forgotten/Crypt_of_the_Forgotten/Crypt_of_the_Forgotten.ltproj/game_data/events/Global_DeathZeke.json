@@ -1,0 +1,22 @@
+[
+    {
+        "name": "DeathZeke",
+        "trigger": "combat_death",
+        "level_nid": null,
+        "condition": "unit.nid == 'Zeke'",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "hide_combat_ui",
+            "",
+            "music;Despondent",
+            "add_portrait;Zeke;RightCorner",
+            "speak;Zeke;No{tgm}...{tgm} I can't die{tgm}...{tgm} down here{tgm}...{tgm} {c:expression;Zeke;CloseEyes}{br}Everyone, I'm{tgm}...{tgm} sorry{tgm}...{tgm}",
+            "remove_portrait;Zeke",
+            "",
+            "show_combat_ui"
+        ],
+        "nid": "Global DeathZeke"
+    }
+]

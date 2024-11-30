@@ -1,0 +1,692 @@
+[
+    {
+        "unit1": "Zeke",
+        "unit2": "Roland",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 7,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Zeke",
+        "unit2": "Isabella",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 9,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Zeke",
+        "unit2": "Lex",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 11,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Zeke",
+        "unit2": "Sky",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 10,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Zeke",
+        "unit2": "Luna",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 14,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Roland",
+        "unit2": "Isabella",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 6,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Roland",
+        "unit2": "Lex",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 13,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Roland",
+        "unit2": "Sky",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 12,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Roland",
+        "unit2": "Luna",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 20,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Isabella",
+        "unit2": "Lex",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 12,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Isabella",
+        "unit2": "Sky",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 10,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Isabella",
+        "unit2": "Luna",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 15,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Lex",
+        "unit2": "Sky",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 11,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Lex",
+        "unit2": "Luna",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 8,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    },
+    {
+        "unit1": "Sky",
+        "unit2": "Luna",
+        "one_way": false,
+        "requirements": [
+            {
+                "support_rank": "C",
+                "requirement": 17,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "B",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            },
+            {
+                "support_rank": "A",
+                "requirement": 0,
+                "gate": "",
+                "damage": 0.0,
+                "resist": 0.0,
+                "accuracy": 0.0,
+                "avoid": 0.0,
+                "crit": 0.0,
+                "dodge": 0.0,
+                "attack_speed": 0.0,
+                "defense_speed": 0.0
+            }
+        ]
+    }
+]

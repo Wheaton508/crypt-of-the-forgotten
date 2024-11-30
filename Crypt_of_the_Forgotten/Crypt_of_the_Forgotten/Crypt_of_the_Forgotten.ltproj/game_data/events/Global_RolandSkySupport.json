@@ -1,0 +1,36 @@
+[
+    {
+        "name": "RolandSkySupport",
+        "trigger": "on_support",
+        "level_nid": null,
+        "condition": "check_pair('Roland', 'Sky')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "multi_add_portrait;Roland;Left;Sky;Right",
+            "",
+            "speak;Roland;Heya, Sky.;;;;;;;;1",
+            "speak;Sky;Oh, hello, Roland. Are you holding up well?",
+            "speak;Roland;Yeah, I'm doing great! I just wanted to see you cast some spells.",
+            "speak;Sky;See me{tgm}...{tgm} cast spells?;;;;;;;;1",
+            "speak;Roland;eah! I've never known a damn thing about magic, so I thought I could learn a thing or two.",
+            "speak;Sky;I'm afraid magic isn't something you can quite learn from watching. You need to spend months practicing, and that's if you have a natural talent.",
+            "speak;Roland;Yeah, I figured as much. A friend back home used to tell me the same thing.",
+            "speak;Sky;A friend? I take it they were a mage, too?",
+            "speak;Roland;Yup. Strongest mage I've ever known. I could never even land a single blow on her before she froze me!",
+            "speak;Sky;She specialized in ice magic? Must have been quite powerful indeed.",
+            "speak;Roland;Yeah{tgm}...{tgm} if we ever get the chance, I'll introduce you to her, yeah?",
+            "speak;Sky;That sounds lovely.;;;;;;;;1",
+            "",
+            "remove_portrait;Roland;no_block",
+            "remove_portrait;Sky",
+            "",
+            "end_skip",
+            "wait;200",
+            "sound;Item",
+            "alert;Support increased!"
+        ],
+        "nid": "Global RolandSkySupport"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "nid": "Born_Leader",
+        "name": "Born Leader",
+        "desc": "Grants +10% Hit to allies within two spaces.",
+        "icon_nid": "{ZessDynamite, Rainlash} All Icons",
+        "icon_index": [
+            7,
+            42
+        ],
+        "components": [
+            [
+                "class_skill",
+                null
+            ],
+            [
+                "hide_aura",
+                null
+            ],
+            [
+                "aura",
+                "Born_Leader_Aura"
+            ],
+            [
+                "aura_range",
+                2
+            ],
+            [
+                "aura_target",
+                "ally"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "nid": "Full_Guard",
+        "name": "Full Guard",
+        "desc": "Nullifies bonus damage dealt to the user from effective weaponry.",
+        "icon_nid": "Items",
+        "icon_index": [
+            2,
+            3
+        ],
+        "components": [
+            [
+                "value",
+                10000
+            ],
+            [
+                "status_on_hold",
+                "Full_Guard"
+            ],
+            [
+                "accessory",
+                null
+            ],
+            [
+                "unstealable",
+                null
+            ]
+        ]
+    }
+]

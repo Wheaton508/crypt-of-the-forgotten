@@ -1,0 +1,33 @@
+[
+    {
+        "name": "ZekeLexSupport",
+        "trigger": "on_support",
+        "level_nid": null,
+        "condition": "check_pair('Zeke', 'Lex')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "multi_add_portrait;Zeke;Left;Lex;Right",
+            "speak;Zeke;How are you holding up, Lex?",
+            "speak;Lex;Oh, boss. Doing just fine, thanks.",
+            "speak;Zeke;You can drop the \"boss.\" We're all friends here.",
+            "speak;Lex;Oh, sorry. I guess I'm used to more stuck-up employers.",
+            "speak;Zeke;It's alright. Say, Lex. What got you into the mercenary business, anyway?",
+            "speak;Lex;I want to help people in need. Whether it's fighting bandits, or helping people like Sky{tgm}...{tgm} as long as I can make a difference, that's what counts.",
+            "speak;Zeke;I see.;;;;;;;;1",
+            "speak;Lex;How about you, Zeke?;;;;;;;;1",
+            "speak;Zeke;I{tgm}...{tgm} think that's a story best saved for another day. There are foes approaching.",
+            "speak;Lex;Oh, of course. My apologies.",
+            "",
+            "remove_portrait;Zeke;no_block",
+            "remove_portrait;Lex",
+            "",
+            "end_skip",
+            "wait;200",
+            "sound;Item",
+            "alert;Support increased!"
+        ],
+        "nid": "Global ZekeLexSupport"
+    }
+]

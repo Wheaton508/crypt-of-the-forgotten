@@ -1,0 +1,89 @@
+[
+    {
+        "nid": "Nosferatu",
+        "name": "Nosferatu",
+        "desc": "User recovers HP equal to damage dealt.",
+        "icon_nid": "Dark",
+        "icon_index": [
+            0,
+            2
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "value",
+                3200
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "damage",
+                10
+            ],
+            [
+                "hit",
+                80
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                14
+            ],
+            [
+                "uses",
+                20
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Dark"
+            ],
+            [
+                "weapon_rank",
+                "B"
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    72,
+                    0,
+                    65
+                ]
+            ],
+            [
+                "lifelink",
+                1.0
+            ]
+        ]
+    }
+]

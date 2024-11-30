@@ -1,0 +1,110 @@
+[
+    {
+        "nid": "Zeke",
+        "blinking_offset": [
+            24,
+            24
+        ],
+        "smiling_offset": [
+            24,
+            40
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Roland",
+        "blinking_offset": [
+            24,
+            24
+        ],
+        "smiling_offset": [
+            24,
+            40
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Isabella",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 8
+    },
+    {
+        "nid": "Lex",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 5
+    },
+    {
+        "nid": "Sky",
+        "blinking_offset": [
+            24,
+            32
+        ],
+        "smiling_offset": [
+            24,
+            48
+        ],
+        "info_offset": 7
+    },
+    {
+        "nid": "Luna",
+        "blinking_offset": [
+            24,
+            24
+        ],
+        "smiling_offset": [
+            24,
+            40
+        ],
+        "info_offset": 5
+    },
+    {
+        "nid": "Wraith",
+        "blinking_offset": [
+            24,
+            24
+        ],
+        "smiling_offset": [
+            24,
+            40
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Blank",
+        "blinking_offset": [
+            0,
+            0
+        ],
+        "smiling_offset": [
+            0,
+            0
+        ],
+        "info_offset": 0
+    },
+    {
+        "nid": "Blank_1",
+        "blinking_offset": [
+            0,
+            0
+        ],
+        "smiling_offset": [
+            0,
+            0
+        ],
+        "info_offset": 0
+    }
+]

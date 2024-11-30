@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Credits",
+        "trigger": null,
+        "level_nid": null,
+        "condition": "True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "change_background;BlackBackground",
+            "transition;open",
+            "speak;;Developed by Wheaton 508{wait}{br}{br}Lex Talionis engine developed by rainlash{wait}{br}{br}Detailed credits to all assets found in the credits document;;;cinematic"
+        ],
+        "nid": "Global Credits"
+    }
+]

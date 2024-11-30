@@ -1,0 +1,36 @@
+[
+    {
+        "name": "ZekeRolandSupport",
+        "trigger": "on_support",
+        "level_nid": null,
+        "condition": "check_pair('Zeke', 'Roland')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "multi_add_portrait;Zeke;Left;Roland;Right",
+            "speak;Zeke;Hey, big guy. How's it going?",
+            "speak;Roland;It's going great! Just splatting some monsters with my best bud!",
+            "speak;Zeke;Heh. Glad you're enjoying yourself, pal.",
+            "speak;Roland;How're you holding up?;;;;;;;;1",
+            "speak;Zeke;Me? Can't complain. The mission hasn't been too bad so far, and the new recruits seem like a good bunch.",
+            "speak;Roland;Even Sky? Thought you didn't like mingling with royals anymore.",
+            "speak;Zeke;As long as I'm getting paid, I don't care who's footing the bill. {c:expression;Zeke;CloseEyes}Still{tgm}...{tgm}",
+            "speak;Roland;Feeling homesick?;;;;;;;;1",
+            "expression;Zeke;OpenEyes",
+            "speak;Zeke;Maybe a bit. Sorry, I shouldn't let myself get distracted. Especially down here.",
+            "speak;Roland;If you need a sec, we can always stop for a bit.",
+            "speak;Zeke;Nah, I'm all good. Thanks, though.",
+            "speak;Roland;Alright...;;;;;;;;1",
+            "",
+            "remove_portrait;Zeke;no_block",
+            "remove_portrait;Roland",
+            "",
+            "end_skip",
+            "wait;200",
+            "sound;Item",
+            "alert;Support increased!"
+        ],
+        "nid": "Global ZekeRolandSupport"
+    }
+]

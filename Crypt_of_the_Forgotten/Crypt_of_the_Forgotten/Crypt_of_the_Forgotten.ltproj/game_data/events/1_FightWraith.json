@@ -1,0 +1,22 @@
+[
+    {
+        "name": "FightWraith",
+        "trigger": "combat_start",
+        "level_nid": "1",
+        "condition": "check_default('Wraith',['Zeke', 'Sky'])",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "hide_combat_ui",
+            "",
+            "music;Daughter of a Dark God",
+            "add_portrait;Wraith;Right",
+            "speak;Wraith;Defilerssss{tgm}...{tgm} you will not leave this placeeeee{tgm}...{tgm};;;noir",
+            "remove_portrait;Wraith",
+            "",
+            "show_combat_ui"
+        ],
+        "nid": "1 FightWraith"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "name": "LexSkySupport",
+        "trigger": "on_support",
+        "level_nid": null,
+        "condition": "check_pair('Lex', 'Sky')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "multi_add_portrait;Lex;Left;Sky;Right",
+            "",
+            "speak;Lex;Hello there, m'lady. Are you holding up well?",
+            "speak;Sky;I am. Thank you, Lex. And how are you?",
+            "speak;Lex;I'm doing fine. I am curious, though.",
+            "speak;Sky;About what?;;;;;;;;1",
+            "speak;Lex;If this tome exists, and we find it{tgm}...{tgm} what then?",
+            "speak;Sky;What{tgm}...{tgm} then? Well, I plan on researching it, seeing what secrets lay within. If my predictions are correct, I can use this knowledge to further our understanding of anima magic. It could be revolutionary to the field!",
+            "speak;Lex;I see{tgm}...{tgm} I'm glad.;;;;;;;;1",
+            "speak;Sky;Glad? Why?;;;;;;;;1",
+            "speak;Lex;Too many times does treasure like this go to the rich, only to line their pockets, when it could be used for so much more. But your goal is a noble one.",
+            "speak;Sky;Noble? I feel as though it's quite self explanatory. Why would one not want to use this knowledge to help people?",
+            "speak;Lex;I ask myself that same question every day{tgm}...{tgm} And yet, I still could not tell you.",
+            "",
+            "remove_portrait;Lex;no_block",
+            "remove_portrait;Sky",
+            "",
+            "end_skip",
+            "wait;200",
+            "sound;Item",
+            "alert;Support increased!"
+        ],
+        "nid": "Global LexSkySupport"
+    }
+]

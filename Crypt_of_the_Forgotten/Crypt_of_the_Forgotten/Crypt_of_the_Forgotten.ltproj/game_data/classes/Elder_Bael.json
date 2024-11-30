@@ -1,0 +1,131 @@
+[
+    {
+        "nid": "Elder_Bael",
+        "name": "Elder Bael",
+        "desc": "Massive baels who often leave their mountain dens to terrorize villages.",
+        "tier": 2,
+        "movement_group": "Bandits",
+        "promotes_from": "Bael",
+        "turns_into": [],
+        "tags": [
+            "Monster"
+        ],
+        "max_level": 20,
+        "bases": {
+            "HP": 36,
+            "STR": 6,
+            "MAG": 0,
+            "SKL": 5,
+            "SPD": 3,
+            "LCK": 0,
+            "DEF": 7,
+            "RES": 4,
+            "CON": 15,
+            "MOV": 6
+        },
+        "growths": {
+            "HP": 85,
+            "STR": 45,
+            "MAG": 0,
+            "SKL": 25,
+            "SPD": 20,
+            "LCK": 10,
+            "DEF": 21,
+            "RES": 17,
+            "CON": 0,
+            "MOV": 0
+        },
+        "growth_bonus": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "RES": 0,
+            "CON": 0,
+            "MOV": 0
+        },
+        "promotion": {
+            "HP": 0,
+            "STR": 0,
+            "MAG": 0,
+            "SKL": 0,
+            "SPD": 0,
+            "LCK": 0,
+            "DEF": 0,
+            "RES": 0,
+            "CON": 0,
+            "MOV": 0
+        },
+        "max_stats": {
+            "HP": 60,
+            "STR": 30,
+            "MAG": 20,
+            "SKL": 28,
+            "SPD": 26,
+            "LCK": 30,
+            "DEF": 26,
+            "RES": 22,
+            "CON": 25,
+            "MOV": 15
+        },
+        "learned_skills": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                null
+            ],
+            "Lance": [
+                false,
+                0,
+                null
+            ],
+            "Axe": [
+                false,
+                0,
+                null
+            ],
+            "Bow": [
+                false,
+                0,
+                null
+            ],
+            "Staff": [
+                false,
+                0,
+                null
+            ],
+            "Light": [
+                false,
+                0,
+                null
+            ],
+            "Anima": [
+                false,
+                0,
+                null
+            ],
+            "Dark": [
+                false,
+                0,
+                null
+            ],
+            "Default": [
+                false,
+                0,
+                null
+            ]
+        },
+        "icon_nid": "Class Cards",
+        "icon_index": [
+            5,
+            6
+        ],
+        "map_sprite_nid": "Elder Bael",
+        "combat_anim_nid": "Elder Bael",
+        "fields": []
+    }
+]

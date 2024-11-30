@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Turn8Rein",
+        "trigger": "phase_change",
+        "level_nid": "1",
+        "condition": "game.turncount == 8 and v(\"canEscape\") == False",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "make_generic;Rein1;Bael;8;enemy;Pursue;Monster;;Poison_Claw",
+            "add_unit;Rein1;16,6;immediate;stack;west",
+            "move_unit;Rein1;18,6;normal;closest;no_follow;no_block",
+            "",
+            "make_generic;Rein2;Sword_Bonewalker;8;enemy;Pursue;Monster;;Iron_Lance",
+            "add_unit;Rein2;16,6;immediate;stack;west",
+            "move_unit;Rein2;19,5;normal;closest;no_follow"
+        ],
+        "nid": "1 Turn8Rein"
+    }
+]

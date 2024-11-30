@@ -1,0 +1,18 @@
+[
+    {
+        "nid": "Alkahest",
+        "name": "Alkahest",
+        "desc": "An ancient tome found in the Crypt of the Forgotten. Written in an unknown tongue.",
+        "icon_nid": "Weapons",
+        "icon_index": [
+            1,
+            3
+        ],
+        "components": [
+            [
+                "undiscardable",
+                null
+            ]
+        ]
+    }
+]

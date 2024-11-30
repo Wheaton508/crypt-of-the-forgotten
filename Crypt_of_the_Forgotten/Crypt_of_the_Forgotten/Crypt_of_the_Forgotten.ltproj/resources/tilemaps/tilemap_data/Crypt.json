@@ -1,0 +1,5448 @@
+[
+    {
+        "nid": "Crypt",
+        "size": [
+            31,
+            25
+        ],
+        "autotile_fps": 29,
+        "layers": [
+            {
+                "nid": "base",
+                "visible": true,
+                "foreground": false,
+                "terrain_grid": {},
+                "sprite_grid": {
+                    "0,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "0,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "0,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "0,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "0,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "0,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "0,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "0,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "0,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "0,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "0,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "0,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "0,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "0,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "0,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "0,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "0,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "0,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "0,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "0,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "0,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "0,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "0,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "0,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "0,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "1,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "1,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "1,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "1,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "1,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "1,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "1,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "1,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "1,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "1,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "1,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            6,
+                            6
+                        ]
+                    ],
+                    "1,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "1,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "1,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "1,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "1,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "1,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            7,
+                            5
+                        ]
+                    ],
+                    "1,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "1,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            12,
+                            0
+                        ]
+                    ],
+                    "1,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            12,
+                            3
+                        ]
+                    ],
+                    "1,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            1
+                        ]
+                    ],
+                    "1,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "1,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "1,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "1,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "2,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "2,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "2,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "2,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "2,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "2,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "2,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "2,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "2,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "2,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "2,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "2,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "2,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "2,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "2,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "2,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "2,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            8,
+                            5
+                        ]
+                    ],
+                    "2,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "2,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            12,
+                            0
+                        ]
+                    ],
+                    "2,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            12,
+                            3
+                        ]
+                    ],
+                    "2,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            1
+                        ]
+                    ],
+                    "2,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "2,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "2,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "2,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "3,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "3,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "3,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "3,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            11
+                        ]
+                    ],
+                    "3,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "3,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "3,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "3,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "3,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "3,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            12
+                        ]
+                    ],
+                    "3,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "3,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "3,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            12
+                        ]
+                    ],
+                    "3,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "3,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "3,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "3,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            6,
+                            8
+                        ]
+                    ],
+                    "3,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "3,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "3,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "3,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "3,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "3,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "3,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "3,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "4,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "4,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "4,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "4,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "4,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "4,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "4,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "4,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "4,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "4,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "4,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "4,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "4,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            11
+                        ]
+                    ],
+                    "4,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "4,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            7,
+                            8
+                        ]
+                    ],
+                    "4,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "4,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            11
+                        ]
+                    ],
+                    "4,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "4,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "4,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "4,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "4,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "4,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            12
+                        ]
+                    ],
+                    "4,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "4,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "5,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "5,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "5,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "5,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "5,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            7,
+                            5
+                        ]
+                    ],
+                    "5,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "5,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "5,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "5,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "5,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "5,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "5,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "5,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "5,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "5,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "5,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "5,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "5,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "5,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "5,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            6,
+                            3
+                        ]
+                    ],
+                    "5,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "5,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "5,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "5,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "5,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "6,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "6,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "6,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "6,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "6,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            8,
+                            5
+                        ]
+                    ],
+                    "6,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "6,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "6,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "6,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "6,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "6,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "6,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "6,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "6,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "6,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "6,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "6,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "6,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "6,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "6,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "6,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "6,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "6,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "6,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "6,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "7,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "7,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "7,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "7,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            12
+                        ]
+                    ],
+                    "7,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "7,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "7,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "7,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "7,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "7,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "7,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "7,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "7,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "7,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            11
+                        ]
+                    ],
+                    "7,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            12
+                        ]
+                    ],
+                    "7,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "7,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "7,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            11
+                        ]
+                    ],
+                    "7,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            10
+                        ]
+                    ],
+                    "7,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "7,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "7,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "7,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "7,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            12
+                        ]
+                    ],
+                    "7,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "8,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "8,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            6,
+                            4
+                        ]
+                    ],
+                    "8,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "8,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "9,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "9,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "9,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "9,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "9,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "9,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "9,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "9,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "9,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "9,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "9,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "9,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "9,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "9,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "9,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            11
+                        ]
+                    ],
+                    "9,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            10
+                        ]
+                    ],
+                    "9,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "9,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "9,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "9,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            11
+                        ]
+                    ],
+                    "9,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "9,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "9,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            10
+                        ]
+                    ],
+                    "9,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            12
+                        ]
+                    ],
+                    "9,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "10,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "10,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "10,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            12
+                        ]
+                    ],
+                    "10,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "10,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "10,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "10,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "10,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "10,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "10,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "10,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "10,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "10,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "10,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "10,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "10,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "10,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "10,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "10,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "10,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "10,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "10,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "10,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "10,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "10,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "11,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "11,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "11,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            11
+                        ]
+                    ],
+                    "11,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            12
+                        ]
+                    ],
+                    "11,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "11,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "11,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "11,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "11,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "11,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "11,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "11,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "11,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "11,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "11,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "11,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            11
+                        ]
+                    ],
+                    "11,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "11,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "11,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "11,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            5,
+                            10
+                        ]
+                    ],
+                    "11,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "11,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            12
+                        ]
+                    ],
+                    "11,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "11,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "11,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "12,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "12,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "12,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "12,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "12,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "12,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "12,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "12,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "12,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "12,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "12,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "12,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "12,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "12,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "12,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "12,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "12,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "12,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "12,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "12,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "12,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "12,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "12,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "12,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "12,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "13,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            6,
+                            2
+                        ]
+                    ],
+                    "13,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "13,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "13,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "13,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "13,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "13,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "13,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "13,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "13,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "13,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "13,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "13,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "13,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "13,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "13,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "13,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "13,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "13,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            12,
+                            0
+                        ]
+                    ],
+                    "13,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            12,
+                            3
+                        ]
+                    ],
+                    "13,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "13,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "13,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            9,
+                            8
+                        ]
+                    ],
+                    "13,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "13,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "14,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            15,
+                            16
+                        ]
+                    ],
+                    "14,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "14,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "14,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "14,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            7,
+                            5
+                        ]
+                    ],
+                    "14,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "14,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "14,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "14,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "14,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "14,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "14,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "14,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "14,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "14,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "14,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            13,
+                            0
+                        ]
+                    ],
+                    "14,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            13,
+                            1
+                        ]
+                    ],
+                    "14,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "14,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "14,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "14,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "14,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "14,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "14,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "14,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "15,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            16,
+                            16
+                        ]
+                    ],
+                    "15,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "15,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "15,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "15,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            9,
+                            5
+                        ]
+                    ],
+                    "15,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "15,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "15,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "15,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "15,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "15,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "15,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "15,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "15,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "15,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "15,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            14,
+                            0
+                        ]
+                    ],
+                    "15,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            14,
+                            1
+                        ]
+                    ],
+                    "15,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "15,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            15,
+                            2
+                        ]
+                    ],
+                    "15,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            15,
+                            3
+                        ]
+                    ],
+                    "15,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            14
+                        ]
+                    ],
+                    "15,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "15,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "15,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "15,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "16,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            17,
+                            16
+                        ]
+                    ],
+                    "16,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "16,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "16,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "16,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            8,
+                            5
+                        ]
+                    ],
+                    "16,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "16,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "16,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "16,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "16,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "16,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "16,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "16,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "16,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "16,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "16,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            15,
+                            0
+                        ]
+                    ],
+                    "16,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            15,
+                            1
+                        ]
+                    ],
+                    "16,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "16,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "16,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "16,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "16,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "16,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "16,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "16,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "17,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            6,
+                            2
+                        ]
+                    ],
+                    "17,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "17,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "17,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            6,
+                            8
+                        ]
+                    ],
+                    "17,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "17,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "17,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "17,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "17,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "17,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "17,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "17,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "17,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "17,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "17,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "17,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "17,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "17,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "17,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            12,
+                            0
+                        ]
+                    ],
+                    "17,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            12,
+                            3
+                        ]
+                    ],
+                    "17,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "17,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "17,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "17,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "17,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "18,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "18,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "18,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "18,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "18,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "18,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "18,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "18,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "18,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "18,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "18,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "18,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "18,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "18,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "18,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "18,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "18,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "18,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "18,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "18,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "18,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "18,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "18,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            9,
+                            8
+                        ]
+                    ],
+                    "18,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "18,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "19,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "19,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "19,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            11
+                        ]
+                    ],
+                    "19,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            12
+                        ]
+                    ],
+                    "19,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "19,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "19,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            12
+                        ]
+                    ],
+                    "19,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "19,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "19,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "19,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "19,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "19,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "19,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "19,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "19,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            11
+                        ]
+                    ],
+                    "19,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "19,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "19,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            11
+                        ]
+                    ],
+                    "19,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "19,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "19,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            12
+                        ]
+                    ],
+                    "19,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "19,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "19,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "20,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "20,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "20,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            12
+                        ]
+                    ],
+                    "20,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "20,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "20,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "20,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "20,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "20,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "20,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "20,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "20,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "20,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "20,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "20,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "20,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "20,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "20,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "20,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "20,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "20,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            6,
+                            3
+                        ]
+                    ],
+                    "20,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "20,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "20,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "20,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "21,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "21,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "21,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "21,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "21,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "21,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "21,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            8,
+                            8
+                        ]
+                    ],
+                    "21,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "21,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "21,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "21,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "21,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "21,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "21,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "21,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "21,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "21,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "21,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "21,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            11
+                        ]
+                    ],
+                    "21,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "21,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "21,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "21,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            10
+                        ]
+                    ],
+                    "21,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            12
+                        ]
+                    ],
+                    "21,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "22,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "22,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "22,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "22,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "22,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "22,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "22,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "22,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "22,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "22,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            11
+                        ]
+                    ],
+                    "22,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "22,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "22,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "22,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            10
+                        ]
+                    ],
+                    "22,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "22,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "22,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "22,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "22,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "22,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "22,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "22,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "22,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "22,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "22,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "23,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "23,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "23,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            12
+                        ]
+                    ],
+                    "23,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "23,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "23,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "23,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            11
+                        ]
+                    ],
+                    "23,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "23,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            10
+                        ]
+                    ],
+                    "23,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            12
+                        ]
+                    ],
+                    "23,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "23,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "23,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "23,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "23,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "23,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "23,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "23,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "23,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "23,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "23,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "23,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "23,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "23,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            15,
+                            8
+                        ]
+                    ],
+                    "23,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "24,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "24,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "24,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            11
+                        ]
+                    ],
+                    "24,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            12
+                        ]
+                    ],
+                    "24,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "24,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "24,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "24,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "24,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "24,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "24,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "24,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "24,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "24,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "24,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "24,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "24,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "24,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "24,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "24,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            11
+                        ]
+                    ],
+                    "24,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "24,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            12
+                        ]
+                    ],
+                    "24,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "24,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "24,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "25,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "25,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "25,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "25,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "25,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "25,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "25,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "25,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "25,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "25,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "25,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            11
+                        ]
+                    ],
+                    "25,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            19,
+                            18
+                        ]
+                    ],
+                    "25,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            19,
+                            19
+                        ]
+                    ],
+                    "25,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "25,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            12
+                        ]
+                    ],
+                    "25,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "25,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "25,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "25,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "25,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "25,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            6,
+                            3
+                        ]
+                    ],
+                    "25,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            11
+                        ]
+                    ],
+                    "25,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "25,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            12
+                        ]
+                    ],
+                    "25,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "26,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "26,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            1
+                        ]
+                    ],
+                    "26,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "26,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "26,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "26,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "26,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "26,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "26,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "26,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "26,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "26,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "26,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "26,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "26,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "26,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "26,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "26,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "26,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "26,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "26,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "26,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "26,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "26,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "26,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "27,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "27,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "27,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "27,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            11
+                        ]
+                    ],
+                    "27,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            12
+                        ]
+                    ],
+                    "27,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "27,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "27,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "27,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "27,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            11
+                        ]
+                    ],
+                    "27,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            12
+                        ]
+                    ],
+                    "27,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "27,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "27,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "27,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            11
+                        ]
+                    ],
+                    "27,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "27,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            12
+                        ]
+                    ],
+                    "27,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "27,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "27,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            11
+                        ]
+                    ],
+                    "27,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            12
+                        ]
+                    ],
+                    "27,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "27,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "27,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            12,
+                            0
+                        ]
+                    ],
+                    "27,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            13,
+                            14
+                        ]
+                    ],
+                    "28,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "28,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "28,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "28,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "28,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "28,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            7,
+                            5
+                        ]
+                    ],
+                    "28,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "28,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "28,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "28,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "28,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "28,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "28,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "28,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "28,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "28,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "28,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "28,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "28,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "28,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            6,
+                            4
+                        ]
+                    ],
+                    "28,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "28,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "28,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "28,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "28,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "29,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "29,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            12,
+                            0
+                        ]
+                    ],
+                    "29,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            12,
+                            3
+                        ]
+                    ],
+                    "29,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "29,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "29,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            8,
+                            5
+                        ]
+                    ],
+                    "29,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "29,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "29,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "29,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "29,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "29,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            12,
+                            0
+                        ]
+                    ],
+                    "29,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            12,
+                            3
+                        ]
+                    ],
+                    "29,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            12,
+                            0
+                        ]
+                    ],
+                    "29,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            12,
+                            3
+                        ]
+                    ],
+                    "29,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "29,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            11
+                        ]
+                    ],
+                    "29,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            10
+                        ]
+                    ],
+                    "29,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "29,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            3,
+                            9
+                        ]
+                    ],
+                    "29,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            12
+                        ]
+                    ],
+                    "29,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "29,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            12,
+                            0
+                        ]
+                    ],
+                    "29,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            13,
+                            14
+                        ]
+                    ],
+                    "29,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "30,0": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "30,1": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "30,2": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "30,3": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "30,4": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            6,
+                            8
+                        ]
+                    ],
+                    "30,5": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            0,
+                            31
+                        ]
+                    ],
+                    "30,6": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "30,7": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "30,8": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "30,9": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            8
+                        ]
+                    ],
+                    "30,10": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "30,11": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "30,12": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "30,13": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "30,14": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "30,15": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "30,16": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            2,
+                            17
+                        ]
+                    ],
+                    "30,17": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            7,
+                            5
+                        ]
+                    ],
+                    "30,18": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "30,19": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "30,20": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "30,21": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "30,22": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "30,23": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ],
+                    "30,24": [
+                        "Last Stronghold {Flasuban, N426, ZoramineFae}",
+                        [
+                            1,
+                            15
+                        ]
+                    ]
+                }
+            }
+        ],
+        "tilesets": [
+            "Last Stronghold {Flasuban, N426, ZoramineFae}"
+        ]
+    }
+]

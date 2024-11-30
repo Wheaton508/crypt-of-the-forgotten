@@ -1,0 +1,45 @@
+[
+    {
+        "nid": "Heaven_Fruit",
+        "name": "Heaven Fruit",
+        "desc": "Raises the user's level by one.",
+        "icon_nid": "Items",
+        "icon_index": [
+            2,
+            0
+        ],
+        "components": [
+            [
+                "usable",
+                null
+            ],
+            [
+                "target_ally",
+                null
+            ],
+            [
+                "uses",
+                1
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "usable_in_base",
+                null
+            ],
+            [
+                "exp",
+                100
+            ],
+            [
+                "value",
+                8000
+            ]
+        ]
+    }
+]

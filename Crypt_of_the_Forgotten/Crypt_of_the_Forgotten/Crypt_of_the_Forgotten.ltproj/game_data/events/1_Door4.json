@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Door4",
+        "trigger": "Door",
+        "level_nid": "1",
+        "condition": "region.nid == 'Door4'",
+        "commands": [],
+        "only_once": true,
+        "priority": 20,
+        "_source": [
+            "unlock;{unit}",
+            "show_layer;door4;fade",
+            "has_finished;{unit}"
+        ],
+        "nid": "1 Door4"
+    }
+]

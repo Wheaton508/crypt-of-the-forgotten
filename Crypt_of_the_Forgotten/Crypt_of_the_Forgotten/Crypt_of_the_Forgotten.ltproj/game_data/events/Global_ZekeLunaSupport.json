@@ -1,0 +1,35 @@
+[
+    {
+        "name": "ZekeLunaSupport",
+        "trigger": "on_support",
+        "level_nid": null,
+        "condition": "check_pair('Zeke', 'Luna')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "multi_add_portrait;Luna;Left;Zeke;Right",
+            "speak;Luna;Well, I'd say you're the most tolerable of the bunch.",
+            "speak;Zeke;That's{tgm}...{tgm} reassuring?;;;;;;;;1",
+            "speak;Luna;You're not annoying, you're not a meathead{tgm}...{tgm}",
+            "speak;Zeke;You don't{tgm}...{tgm} like people, do you?",
+            "speak;Luna;Why would I? Not like they do anything good for me.",
+            "speak;Zeke;But you're a mercenary, aren't you? Working with others is the whole job.",
+            "speak;Luna;Sure, but I let my brother handle that stuff. I'm just there to make sure we get paid.{wait} Healers are in high demand, after all.",
+            "speak;Zeke;Do you{tgm}...{tgm} actually enjoy healing people?",
+            "speak;Luna;I'm down here with you, aren't I?",
+            "speak;Zeke;That{tgm}...{tgm} doesn't answer my question.",
+            "speak;Luna;What a shame. Anyway, I see some monsters over there. You do your thing, and I'll do mine.",
+            "speak;Zeke;{tgm}...{tgm};;;;;;;;1",
+            "",
+            "remove_portrait;Luna;no_block",
+            "remove_portrait;Zeke",
+            "",
+            "end_skip",
+            "wait;200",
+            "sound;Item",
+            "alert;Support increased!"
+        ],
+        "nid": "Global ZekeLunaSupport"
+    }
+]

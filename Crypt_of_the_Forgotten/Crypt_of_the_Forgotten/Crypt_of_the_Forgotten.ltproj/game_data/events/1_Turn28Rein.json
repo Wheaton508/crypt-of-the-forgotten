@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Turn28Rein",
+        "trigger": "phase_change",
+        "level_nid": "1",
+        "condition": "game.turncount == 28 and v(\"canEscape\") == False",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "# Generics from both sides, or maybe the middle",
+            "add_unit;206;11,19;immediate;stack;fade",
+            "add_unit;208;11,19;immediate;stack;fade",
+            "move_unit;206;8,22;normal;closest;no_block;no_follow",
+            "move_unit;208;8,21;normal;closest;no_block;no_follow",
+            "",
+            "add_unit;205;15,19;immediate;stack;fade",
+            "add_unit;207;15,19;immediate;stack;fade",
+            "move_unit;205;18,22;normal;closest;no_block;no_follow",
+            "move_unit;207;18,21;normal;closest;no_follow"
+        ],
+        "nid": "1 Turn28Rein"
+    }
+]

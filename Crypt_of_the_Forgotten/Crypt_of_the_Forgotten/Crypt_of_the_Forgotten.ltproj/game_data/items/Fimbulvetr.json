@@ -1,0 +1,97 @@
+[
+    {
+        "nid": "Fimbulvetr",
+        "name": "Fimbulvetr",
+        "desc": "Ice magic. Effective against dragons.",
+        "icon_nid": "Anima",
+        "icon_index": [
+            0,
+            4
+        ],
+        "components": [
+            [
+                "weapon",
+                null
+            ],
+            [
+                "magic",
+                null
+            ],
+            [
+                "value",
+                6000
+            ],
+            [
+                "target_enemy",
+                null
+            ],
+            [
+                "min_range",
+                1
+            ],
+            [
+                "max_range",
+                2
+            ],
+            [
+                "damage",
+                13
+            ],
+            [
+                "hit",
+                85
+            ],
+            [
+                "crit",
+                0
+            ],
+            [
+                "weight",
+                11
+            ],
+            [
+                "uses",
+                20
+            ],
+            [
+                "uses_options",
+                {
+                    "lose_uses_on_miss": false,
+                    "one_loss_per_combat": false
+                }
+            ],
+            [
+                "level_exp",
+                null
+            ],
+            [
+                "weapon_type",
+                "Anima"
+            ],
+            [
+                "weapon_rank",
+                "A"
+            ],
+            [
+                "map_hit_add_blend",
+                [
+                    0,
+                    170,
+                    255
+                ]
+            ],
+            [
+                "effective_damage",
+                {
+                    "effective_tags": [
+                        "Dragon"
+                    ],
+                    "effective_multiplier": 3,
+                    "effective_bonus_damage": 0,
+                    "show_effectiveness_flash": true,
+                    "weapon_effectiveness_multiplied": true
+                }
+            ]
+        ]
+    }
+]

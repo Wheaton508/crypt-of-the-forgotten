@@ -1,0 +1,41 @@
+[
+    {
+        "name": "Escape",
+        "trigger": "Escape",
+        "level_nid": "1",
+        "condition": "region.nid == \"Escape\" and v(\"canEscape\") == True",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "add_portrait;{unit};Left",
+            "if;unit.nid == \"Zeke\"",
+            "    speak;Zeke;Everyone, I see the exit! C'mon, let's go!",
+            "    level_var;zekeEscaped;False",
+            "elif;unit.nid == \"Roland\"",
+            "    speak;Roland;Heh, those creeps didn't even know what hit 'em.|Made for pretty good training, though! ",
+            "elif;unit.nid == \"Isabella\"",
+            "    speak;Isabella;Never thought I'd ever see monsters like this{tgm}...{tgm}|This is the best!",
+            "elif;unit.nid == \"Lex\"",
+            "    speak;Lex;I'm sorry, monsters. Maybe in another life, we could have been friends.",
+            "elif;unit.nid == \"Sky\"",
+            "    speak;Sky;Such a exhilerating tomb! I hope Papa lets me come back some day{tgm}...{tgm}",
+            "    level_var;skyEscaped;False",
+            "else;",
+            "    speak;Luna;Well, that was awful{tgm}...{tgm} I should ask for a bonus.",
+            "    end",
+            "",
+            "remove_portrait;{unit}",
+            "",
+            "remove_unit;{unit};;north",
+            "wait;400",
+            "if;not any(unit.team == 'player' for unit in game.units if unit.position)",
+            "    music_clear;200",
+            "    wait;200",
+            "    victory_screen",
+            "    win_game",
+            "end"
+        ],
+        "nid": "1 Escape"
+    }
+]

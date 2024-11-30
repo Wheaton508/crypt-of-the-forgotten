@@ -1,0 +1,32 @@
+[
+    {
+        "name": "RolandLunaSupport",
+        "trigger": "on_support",
+        "level_nid": null,
+        "condition": "check_pair('Roland', 'Luna')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "multi_add_portrait;Luna;Left;Roland;Right",
+            "speak;Luna;Hey, Meathead. Give me your arm.",
+            "speak;Roland;What? Oh, heya, Luna. What are you-{no_wait}",
+            "speak;Luna;You didn't even notice it got bit by that Revenant. Leaving that untreated can get bad fast.",
+            "speak;Roland;Oh, thanks! You're pretty handy to have around, you know.",
+            "speak;Luna;I tend to be. As long as I have big oafs like you around to take the attacks for me, my job is pretty easy.",
+            "speak;Roland;That's right! Guess we make a pretty good team, huh?",
+            "speak;Luna;{tgm}...{tgm};;;;;;;;1",
+            "speak;Roland;Anyway, let's keep going! These monsters aren't gonna kill themselves.",
+            "remove_portrait;Roland",
+            "speak;Luna;Why do I even bother{tgm}...{tgm}",
+            "",
+            "remove_portrait;Luna",
+            "",
+            "end_skip",
+            "wait;200",
+            "sound;Item",
+            "alert;Support increased!"
+        ],
+        "nid": "Global RolandLunaSupport"
+    }
+]

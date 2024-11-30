@@ -1,0 +1,36 @@
+[
+    {
+        "name": "RolandLexSupport",
+        "trigger": "on_support",
+        "level_nid": null,
+        "condition": "check_pair('Roland', 'Lex')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "multi_add_portrait;Roland;Left;Lex;Right",
+            "",
+            "speak;Roland;Hey, Lex. Got a question for you.",
+            "speak;Lex;Hm? What is it, Roland?;;;;;;;;1",
+            "speak;Roland;I was just wondering how you got this good with a bow.",
+            "speak;Lex;How I{tgm}...{tgm} got so good?;;;;;;;;1",
+            "speak;Roland;Yeah! You shoot that thing like it's nothing. I've tried using bows before, but I've never been the greatest shot.",
+            "speak;Lex;I see. Well, I suppose it's all just practice. I've been hunting pretty much since I could hold a bow.",
+            "speak;Roland;Hunting, eh? What's your biggest catch?",
+            "speak;Lex;My biggest catch{tgm}...{tgm} Well, I've bagged bears and moose before. But there was one time I took down a wild wyvern.",
+            "speak;Roland;A wild one? Those things are crazy!",
+            "speak;Lex;Very. One attacked my village once. My father was ill, so I was the best shot we had. One arrow, square in the head{tgm}...{tgm} and that was it.",
+            "speak;Roland;ONE ARROW? Alright, that settles it. Once we get back to camp, we're going hunting for dinner tonight. Whoever gets the biggest haul wins!",
+            "speak;Lex;That sounds fun. I suppose it couldn't hurt.",
+            "",
+            "remove_portrait;Roland;no_block",
+            "remove_portrait;Lex",
+            "",
+            "end_skip",
+            "wait;200",
+            "sound;Item",
+            "alert;Support increased!"
+        ],
+        "nid": "Global RolandLexSupport"
+    }
+]

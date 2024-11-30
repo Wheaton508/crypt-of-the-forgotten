@@ -1,0 +1,119 @@
+[
+    {
+        "nid": "Luna",
+        "name": "Luna",
+        "desc": "An apathetic and uncaring woman. Heals others, but only for their money.",
+        "variant": "",
+        "level": 8,
+        "klass": "Cleric",
+        "tags": [],
+        "bases": {
+            "HP": 24,
+            "STR": 3,
+            "MAG": 11,
+            "SKL": 6,
+            "SPD": 8,
+            "LCK": 2,
+            "DEF": 6,
+            "RES": 13,
+            "CON": 7,
+            "MOV": 5
+        },
+        "growths": {
+            "HP": 45,
+            "STR": 10,
+            "MAG": 50,
+            "SKL": 25,
+            "SPD": 45,
+            "LCK": 5,
+            "DEF": 15,
+            "RES": 65,
+            "CON": 0,
+            "MOV": 0
+        },
+        "stat_cap_modifiers": {
+            "MAG": 0,
+            "SPD": 0,
+            "STR": 0,
+            "CON": 0,
+            "SKL": 0,
+            "LCK": 0,
+            "MOV": 0,
+            "RES": 0,
+            "DEF": 0,
+            "HP": 0
+        },
+        "starting_items": [
+            [
+                "Mend",
+                false
+            ],
+            [
+                "Restore",
+                false
+            ],
+            [
+                "Antitoxin",
+                false
+            ]
+        ],
+        "learned_skills": [
+            [
+                1,
+                "Fierce_Edge"
+            ]
+        ],
+        "unit_notes": [],
+        "wexp_gain": {
+            "Sword": [
+                false,
+                0,
+                251
+            ],
+            "Lance": [
+                true,
+                0,
+                251
+            ],
+            "Axe": [
+                false,
+                0,
+                251
+            ],
+            "Bow": [
+                false,
+                0,
+                251
+            ],
+            "Staff": [
+                false,
+                121,
+                251
+            ],
+            "Light": [
+                false,
+                0,
+                251
+            ],
+            "Anima": [
+                false,
+                0,
+                251
+            ],
+            "Dark": [
+                false,
+                0,
+                251
+            ],
+            "Default": [
+                false,
+                0,
+                251
+            ]
+        },
+        "alternate_classes": [],
+        "portrait_nid": "Luna",
+        "affinity": "Dark",
+        "fields": []
+    }
+]

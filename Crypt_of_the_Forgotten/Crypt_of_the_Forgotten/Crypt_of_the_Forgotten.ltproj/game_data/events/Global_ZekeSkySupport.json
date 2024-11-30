@@ -1,0 +1,34 @@
+[
+    {
+        "name": "ZekeSkySupport",
+        "trigger": "on_support",
+        "level_nid": null,
+        "condition": "check_pair('Zeke', 'Sky')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "multi_add_portrait;Zeke;Left;Sky;Right",
+            "speak;Zeke;Hey, Sky.;;;;;;;;1",
+            "speak;Sky;Oh, hello Zeke.;;;;;;;;1",
+            "speak;Zeke;I just wanted to let you know you can drop the noble speak when you're with us. We're all friends here.",
+            "speak;Sky;Noble{tgm}...{tgm} speak? I'm not quite sure what you mean.",
+            "speak;Zeke;That. Commoners don't normally talk so formally all the time. Especially in our group.",
+            "speak;Sky;I see{tgm}...{tgm} Why{tgm}...{tgm} would I want to drop my \"noble speak\"?",
+            "speak;Zeke;It's clunky. Too many words, they're all way too long.",
+            "speak;Sky;Hmm{tgm}...{tgm};;;;;;;;1",
+            "speak;Zeke;You don't have to if you don't want to. I just figured you might want to let your guard down while you're away from home.",
+            "speak;Sky;I will try. Thank you, Zeke.",
+            "speak;Zeke;Anytime.;;;;;;;;1",
+            "",
+            "remove_portrait;Zeke;no_block",
+            "remove_portrait;Sky",
+            "",
+            "end_skip",
+            "wait;200",
+            "sound;Item",
+            "alert;Support increased!"
+        ],
+        "nid": "Global ZekeSkySupport"
+    }
+]

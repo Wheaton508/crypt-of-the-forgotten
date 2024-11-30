@@ -1,0 +1,37 @@
+[
+    {
+        "name": "IsabellaLexSupport",
+        "trigger": "on_support",
+        "level_nid": null,
+        "condition": "check_pair('Isaabella', 'Lex')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "multi_add_portrait;Isabella;Left;Lex;Right",
+            "",
+            "speak;Isabella;Lex! Here you go!;;;;;;;;1",
+            "speak;Lex;Hm? What are these?;;;;;;;;1",
+            "speak;Isabella;Some arrows I found. Took them right out of that monster we took down!",
+            "speak;Lex;Ah, I see. I don't typically reuse my arrows, but thank you.",
+            "speak;Isabella;You don't? Why not?;;;;;;;;1",
+            "speak;Lex;I like to think of it as a way to give back to those who come after me. If a traveler is struggling, some arrows may be able to save them.",
+            "speak;Isabella;Oh, I see! It's like a gift.",
+            "speak;Lex;Exactly. If they need them to hunt dinner, or to get out of a bandit attack, I'd like to give them that hope.",
+            "speak;Isabella;That's really nice, Lex! I should start doing that with my javelins!",
+            "speak;Lex;Woah, uh{tgm}...{tgm} maybe not. Javelins are a lot more expensive than arrows, after all.",
+            "speak;Isabella;Aw, you're right.;;;;;;;;1",
+            "speak;Lex;Once we get out of here, I can teach you some other ways I like to give back, okay?",
+            "speak;Isabella;Okay!;;;;;;;;1",
+            "",
+            "remove_portrait;Isabella;no_block",
+            "remove_portrait;Lex",
+            "",
+            "end_skip",
+            "wait;200",
+            "sound;Item",
+            "alert;Support increased!"
+        ],
+        "nid": "Global IsabellaLexSupport"
+    }
+]

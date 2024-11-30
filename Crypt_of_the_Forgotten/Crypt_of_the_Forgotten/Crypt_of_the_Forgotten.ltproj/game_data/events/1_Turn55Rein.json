@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Turn55Rein",
+        "trigger": "phase_change",
+        "level_nid": "1",
+        "condition": "game.turncount == 55 and v(\"canEscape\") == False",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "# Strong anti-turtle mechanics",
+            "add_unit;202;10,32;fade;closest;south",
+            "add_unit;203;13,32;fade;closest;south",
+            "add_unit;204;16,32;fade;closest;south"
+        ],
+        "nid": "1 Turn55Rein"
+    }
+]

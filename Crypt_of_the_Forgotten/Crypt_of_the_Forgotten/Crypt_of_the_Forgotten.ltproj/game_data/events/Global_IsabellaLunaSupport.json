@@ -1,0 +1,37 @@
+[
+    {
+        "name": "IsabellaLunaSupport",
+        "trigger": "on_support",
+        "level_nid": null,
+        "condition": "check_pair('Isaabella', 'Luna')",
+        "commands": [],
+        "only_once": false,
+        "priority": 20,
+        "_source": [
+            "multi_add_portrait;Isabella;Left;Luna;Right",
+            "",
+            "speak;Isabella;Staaare{tgm}...{tgm};;;;;;;;1",
+            "speak;Luna;{tgm}...{tgm};;;;;;;;1",
+            "speak;Isabella;Staaaaaare{tgm}...{tgm};;;;;;;;1",
+            "speak;Luna;What.;;;;;;;;1",
+            "speak;Isabella;Ack! O-oh, it's nothing. I was just{tgm}...{tgm} it's nice to have another girl with the group.",
+            "speak;Luna;Is that it?;;;;;;;;1",
+            "speak;Isabella;Does there{tgm}...{tgm} have to be more?",
+            "speak;Luna;If you want to keep bothering me, then yes.",
+            "speak;Isabella;{tgm}...{tgm};;;;;;;;1",
+            "speak;Luna;{tgm}...{tgm};;;;;;;;1",
+            "speak;Isabella;Uh{tgm}...{tgm} I guess I'll{tgm}...{tgm} go fight that Bonewalker over there{tgm}...{tgm}",
+            "speak;Luna;<iconvo>Sigh</>{tgm}...{tgm} At least let me patch up that wound before you run away.",
+            "speak;Isabella;Hee hee{tgm}...{tgm} Thank you!;;;;;;;;1",
+            "",
+            "remove_portrait;Isabella;no_block",
+            "remove_portrait;Luna",
+            "",
+            "end_skip",
+            "wait;200",
+            "sound;Item",
+            "alert;Support increased!"
+        ],
+        "nid": "Global IsabellaLunaSupport"
+    }
+]

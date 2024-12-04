@@ -11,6 +11,7 @@
             "multi_add_portrait;Luna;Left;Roland;Right",
             "speak;Luna;Hey, Meathead. Give me your arm.",
             "speak;Roland;What? Oh, heya, Luna. What are you-{no_wait}",
+            "bop_portrait;Roland",
             "speak;Luna;You didn't even notice it got bit by that Revenant. Leaving that untreated can get bad fast.",
             "speak;Roland;Oh, thanks! You're pretty handy to have around, you know.",
             "speak;Luna;I tend to be. As long as I have big oafs like you around to take the attacks for me, my job is pretty easy.",

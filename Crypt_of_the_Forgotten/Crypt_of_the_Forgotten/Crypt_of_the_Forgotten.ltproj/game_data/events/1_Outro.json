@@ -102,7 +102,7 @@
             "    speak;Sky;Precisely. Unfortunately, I can't make out any of its text right now.|I'll have to cross reference some books back at my study.",
             "    speak;Zeke;Well, should we start heading back, then?|I don't want to keep you from your research.",
             "    speak;Sky;Yes. We can find somewhere safer to set up camp, and then head back.",
-            "    speak;Zeke;Sounds like a plan to me. And hey, maybe you can teach me a thing or two about magic on the way back.",
+            "    speak;Zeke;Sounds like a plan to me. And hey, maybe you can teach me a thing or two about magic on the way back?",
             "    speak;Sky;Hmm{tgm}...{tgm} I don't see why not.;;;;;;;;1",
             "    speak;Zeke;It's a date, then. Come on.;;;;;;;;1",
             "    remove_portrait;Zeke;no_block",

@@ -1721,7 +1721,7 @@
                 "faction": "Monster",
                 "starting_items": [
                     [
-                        "Brave_Axe",
+                        "Silver_Axe",
                         true
                     ]
                 ],
@@ -3858,6 +3858,10 @@
             },
             {
                 "nid": "13",
+                "trigger_threshold": 1
+            },
+            {
+                "nid": "",
                 "trigger_threshold": 1
             }
         ]

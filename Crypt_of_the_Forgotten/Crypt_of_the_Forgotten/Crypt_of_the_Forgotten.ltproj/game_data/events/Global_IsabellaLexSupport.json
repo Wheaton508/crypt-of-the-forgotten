@@ -3,7 +3,7 @@
         "name": "IsabellaLexSupport",
         "trigger": "on_support",
         "level_nid": null,
-        "condition": "check_pair('Isaabella', 'Lex')",
+        "condition": "check_pair('Isabella', 'Lex')",
         "commands": [],
         "only_once": false,
         "priority": 20,

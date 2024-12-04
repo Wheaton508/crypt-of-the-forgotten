@@ -3,7 +3,7 @@
         "name": "IsabellaSkySupport",
         "trigger": "on_support",
         "level_nid": null,
-        "condition": "check_pair('Isaabella', 'Sky')",
+        "condition": "check_pair('Isabella', 'Sky')",
         "commands": [],
         "only_once": false,
         "priority": 20,

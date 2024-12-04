@@ -59,6 +59,7 @@ GBA Spell Animations ported to Lex Talionis by BBHood
 
 * Backgrounds ported from Fire Emblem: Path of Radiance by unknown
 * Last Stronghold tileset by Flasuban, N426, and ZoramineFae. Edits by Wheaton_508
+* Skill Icons by ZessDynamite and rainlash
 
 
 ~~~~~ MUSIC ~~~~~
